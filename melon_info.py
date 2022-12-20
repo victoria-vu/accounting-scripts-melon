@@ -19,6 +19,6 @@ def print_melon(melons):
         for attribute, value in attributes.items():
             print(f"{attribute}: {value}")
 
-        print()
+        print() 
 
 print_melon(melons)
